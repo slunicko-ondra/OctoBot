@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 from octoplay_utils import utils
-import parser
+from octoplay_utils import parser
 import io
 import os
 import sys
